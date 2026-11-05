@@ -1,0 +1,20 @@
+CONCHIS · VERSIÓN APROBADA
+
+1. Descomprime este ZIP.
+2. En GitHub, abre el repositorio y el directorio usado por GitHub Pages.
+3. Sube todos los archivos junto con la carpeta assets. index.html debe quedar directamente en el directorio de publicación, no dentro de una carpeta adicional.
+4. Guarda con Commit changes.
+5. Abre la URL publicada con HTTPS para revisar la tarjeta e instalarla.
+
+Si reemplazas una versión anterior, sobrescribe los archivos del mismo nombre.
+
+INSTALACIÓN
+Android: Chrome > Instalar en mi dispositivo o menú > Instalar aplicación.
+iPhone: Safari > Compartir > Agregar a inicio.
+Computador: Chrome o Edge > ícono de instalación o menú de instalación. El acceso directo en el escritorio depende del sistema.
+
+El código QR y los botones de compartir usan automáticamente la dirección publicada; no requieren personalización manual. No compartas la ruta de un archivo abierto localmente.
+
+La tarjeta y las fotos se guardan para consulta sin conexión después de la primera carga completa. Llamadas, WhatsApp y mapas requieren sus servicios correspondientes.
+
+Para futuras actualizaciones cambia también el nombre CACHE en sw.js para renovar los archivos guardados.
